@@ -29,7 +29,7 @@ Find me here🔗
      <img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://ruudvandenbrink.net/" target="_blank">
+  <a href="https://www.dropbox.com/s/vza0nrf7m3xru3n/CV_vandenBrink.pdf?dl=1" target="_blank">
      <img src="https://img.shields.io/badge/Full CV-333333?style=for-the-badge&logo=read.cv&logoColor=white" target="_blank" /> 
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
