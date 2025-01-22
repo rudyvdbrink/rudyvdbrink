@@ -21,7 +21,7 @@ Find me here🔗
 </h2>
 
 <div align="left"> 
-<a href="www.linkedin.com/in/rudy-van-den-brink-3301b5283/" target="_blank">
+<a href="https://www.linkedin.com/in/rudy-van-den-brink-3301b5283/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /> 
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
