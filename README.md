@@ -35,10 +35,6 @@ Find me here🔗
   <a href="https://bsky.app/profile/rudyvdbrink.bsky.social" target="_blank">
      <img src="https://img.shields.io/badge/Bluesky-0077B5?style=for-the-badge&logo=Bluesky&logoColor=white" target="_blank" /> 
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://scholar.google.com/citations?user=gKseug0AAAAJ&hl=de" target="_blank">
-     <img src="https://img.shields.io/badge/Scholar-334333?style=for-the-badge&logo=google scholar&logoColor=white" target="_blank" /> 
-  </a>
 </div>
 
 <h2 align="left">
